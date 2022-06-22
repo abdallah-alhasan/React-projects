@@ -14,7 +14,7 @@ code {
 .landing,.info{
   background-color: #1A1B21;
   color: white;
-  width: 400px;
+  width: 600px;
 }
 .landing{
   border-radius:10px 10px 0 0  ;
@@ -100,14 +100,16 @@ line-height: 16px;
   color: #DCDCDC;
   line-height: 15px;
 }
-
+.intrests p{
+  margin-bottom: 50px;
+}
 
 footer{
   display: grid;
   grid-template-columns: repeat(4, 15%);
   background-color: #161619;
   color: white;
-  width: 400px;
+  width: 600px;
   height: 50px;
   margin: 0 auto ;
   align-items: center;
