@@ -9,7 +9,7 @@ export default function Box(props) {
         <div 
             style={styles} 
             className="box"
-            onClick={props.toggle}
+            onMouseOver={props.toggle}
         >
         </div>
     )
